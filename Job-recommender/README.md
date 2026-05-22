@@ -144,4 +144,7 @@ python recommender.py
 
 ## 👨‍💻 Author
 
-Built as **DecodeLabs Project 3** — AI Recommendation Systems module.
+👤 Name: Arslan Nafees<br>
+   📱 Phone: +92 334 111 3047<br>
+   📧 Email: arslannafees807@gmail.com<br>
+[![GitHub](https://img.shields.io/badge/GitHub-arslannafees-181717?style=flat&logo=github)](https://github.com/arslannafees)
