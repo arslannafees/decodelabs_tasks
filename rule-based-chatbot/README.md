@@ -1,3 +1,5 @@
+# Rule based Chatbot
+
 A small, deterministic rule-based chatbot implemented in pure Python. The bot uses explicit rules and a simple intent lookup to produce predictable, traceable responses — no machine learning models, no network calls.
 Features
 - Deterministic rule engine (white-box logic)
